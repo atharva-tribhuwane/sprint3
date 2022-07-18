@@ -20,4 +20,3 @@ Example : If you need `react-router-dom` library; please install it.
 
 ---
 
-cloned repo
